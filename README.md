@@ -21,7 +21,6 @@ DevLens AI is a full-stack AI-powered developer platform built using the MERN st
 - 🛡️ Rate Limiting & Secure APIs
 
 ---
----
 
 ## 🎯 Problem Statement
 
@@ -60,7 +59,6 @@ DevLens AI brings these capabilities together into a single AI-powered workspace
 - Groq Cloud
 - Llama 3
 
----
 ---
 
 ## ⚙️ Installation
@@ -102,7 +100,6 @@ npm install
 npm run dev
 ```
 
----
 ---
 
 ## 🚀 Future Enhancements
