@@ -1,8 +1,8 @@
 import axios from "axios";
 import { getToken } from "../utils/auth";
-const API_URL = window.location.hostname === "localhost" 
-  ? "http://localhost:3000" 
-  : "https://devlens-ai-backend-i0tg.onrender.com"; 
+const API_URL = window.location.hostname === "localhost"
+  ? "http://localhost:3000"
+  : "https://devlens-ai-backend-i0tg.onrender.com";
 
 const API = axios.create({
     baseURL: API_URL,

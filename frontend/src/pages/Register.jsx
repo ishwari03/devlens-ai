@@ -92,7 +92,7 @@ export default function Register() {
         <div className="w-full max-w-md">
           <Link to="/" className="mb-8 flex items-center justify-center gap-3 transition-opacity hover:opacity-90">
             <img 
-              src="./public/logo.png" 
+              src="/logo.png" 
               alt="DevLens AI Logo" 
               className="size-11 rounded-xl object-cover shadow-[0_0_28px_-4px_rgba(37,99,235,0.9)]" 
             />
