@@ -626,7 +626,7 @@ function Footer() {
           <ul className="space-y-2">
             <li>
               <a
-                href="https://github.com"
+                href="https://github.com/ishwari03/devlens-ai"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 text-sm text-slate-300 transition-colors hover:text-slate-50"
